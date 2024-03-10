@@ -1,0 +1,5 @@
+todo:
+    - look at Sweetviz
+    - add markdown to explain the models
+    - confusion metrix for all train predictions
+    - bais variance for all train predictions
